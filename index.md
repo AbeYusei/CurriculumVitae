@@ -73,6 +73,7 @@
 - 人柄
   - 熱しやすく冷めやすい
   - いろいろなものにハマりやすい
+  - 頭でっかち
   - よく知らない人に自分から仲良くなれない
 
 ## 実務でやったことはないが興味があるもの
@@ -89,9 +90,104 @@
 
 ## 職務経歴
 
-#### 職務内容の名前（レストラン検索とか）
+```
+2017年5月に株式会社ゴーガへ入社し、現職です。
+現職までにJava,jQueryによるSESを3年ほど経験した後、
+半年受託、それから現在までSESでフロントエンドの開発を行なっています。
 
-- 職務内容の詳細を箇条書きでかく
+職務経歴
+
+【会社名】株式会社ゴーガ
+【勤務期間】2017年4月〜現職
+【雇用形態】正社員
+【職種】SIer,受託開発,自社サービス
+
+●経験案件
+
+1.データ可視化ポータル(受託,設計/製造は私1人)
+　└・python 2.x
+　　・AngularJS
+- テスト無し
+　　・D3.js
+　　・Googleスライド,ドキュメント
+　　・git(bitbucket)
+
+2.SD-Network 管理ポータル：アジャイル(フロントエンドチームリーダー,アーキテクチャ)
+　└・TypeScript 1.x, 2.x
+　　・Angular 2.x, 6.x (angular-seed, AngularCLI)
+　　・Jest + puppeteer, jasmine + karma
+　　・C3.js
+　　・React + TypesScript 2.x + Redux + styled-component
+　　・Robot Framework (Python) + selenium
+　　・go
+　　・Docker
+　　・Ansible
+　　・Bash
+　　・JIRA, Confluence
+　　・Bamboo
+　　・git(bitbucket)
+
+●経験案件
+
+1.求人Webシステム開発：PG
+　└・Java6(Seaser2)
+　　・DB2
+　　・Linux(CentOS)
+　　・Apache2.x
+　　・Tomcat7.x
+　　・jQuery1.x
+　　・VBA(事務)
+　　・Subversion
+
+2.銀行向けWebシステム運用・保守・開発：SE,PG(チームリーダー)
+　└・Java6(JSFベースの独自フレームワーク)
+　　・MySQL
+　　・Linux(CentOS)
+　　・Apache2.x
+　　・WebLogic
+　　・jQuery1.x
+　　・VBA(事務)
+　　・sh
+　　・Windowsバッチ(cmd)
+　　・ttl(TeraTermマクロ)
+　　・Subversion, Git
+　　・Redmine
+
+【会社名】JGサポート株式会社
+【勤務期間】2013年5月〜2015年6月
+【雇用形態】正社員
+【職種】その他システム関連
+
+●経験案件
+
+1.流通Webシステム開発：PG
+　└・Java6(Seaser2)
+　　・MySQL5
+　　・Linux(JBossEAP6)
+　　・Apache2.x
+　　・jQuery1.x
+　　・VBA(事務)
+　　・Subversion
+
+2.官公庁向け共済Webシステム開発：PG
+　└・Java6(JavaEE)
+　　・Oracle11g
+　　・Linux(JBossEAP6)
+　　・Apache2.x
+　　・jQuery1.x
+　　・VBA(事務)
+　　・Subversion
+
+3.流通Webシステム開発：PG
+　└・Java7
+　　・MySQL5
+　　・Linux(CentOS)
+　　・Apache2.x
+　　・Tomcat6.x
+　　・jQuery1.x
+　　・VBA(事務)
+　　・Git
+```
 
 ## 課外活動
 
